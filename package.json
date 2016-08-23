@@ -1,0 +1,13 @@
+{
+  "name": "foreman-dashboard",
+  "version": "0.1.0",
+  "description": "Separate foreman outputs for better readability.",
+  "main": "index.js",
+  "author": "Tristan O'Neil",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "commander": "^2.9.0",
+    "cross-spawn": "^4.0.0"
+  }
+}
